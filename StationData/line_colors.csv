@@ -1,12 +1,33 @@
 Tube Line,color
-Bakerloo,B26300
-Central,DC241F
-Circle,FFC80A
-District,007D32
-Hammersmith and City,F589A6
-Metropolitan,9B0058
-Northern,000000
-Piccadilly,0019A8
-Jubilee,838D93
-Victoria,039BE5
-Waterloo & City,76D0BD
+Bakerloo,
+C2C,
+Central,
+Chiltern Railways,
+Circle,
+District,
+DLR,
+Elizabeth,
+Great Northern,
+Great Western,
+Greater Anglia,
+Hammersmith and City,
+Heathrow Connect,
+Heathrow Express,
+Jubilee,
+Liberty,
+Lioness,
+London Midland,
+Metropolitan,
+Mildmay,
+Northern,
+Piccadilly,
+South Western,
+Southeastern,
+Southern,
+Suffragette,
+Thameslink,
+Tramlink,
+Victoria,
+Waterloo and City,
+Weaver,
+Windrush,

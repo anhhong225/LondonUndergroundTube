@@ -1,8 +1,4 @@
-ipykernel
 numpy
 pandas
 matplotlib
-seaborn
 networkx
-requests
-googlemaps
