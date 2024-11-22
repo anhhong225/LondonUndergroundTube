@@ -76,6 +76,7 @@ Central,Snaresbrook,Leytonstone
 Central,South Ruislip,Ruislip Gardens
 Central,South Woodford,Snaresbrook
 Central,St. Pauls,Chancery Lane
+Central,Bank,Chancery Lane
 Central,Stratford,Mile End
 Central,Theydon Bois,Debden
 Central,Tottenham Court Road,Oxford Circus
@@ -421,6 +422,7 @@ London Midland,Wembley Central,Harrow and Wealdstone
 Metropolitan,Aldgate,Liverpool Street
 Metropolitan,Baker Street,Finchley Road
 Metropolitan,Barbican,Farringdon
+Metropolitan,Farringdon,Euston Square
 Metropolitan,Chalfont and Latimer,Amersham
 Metropolitan,Chalfont and Latimer,Chesham
 Metropolitan,Chorleywood,Chalfont and Latimer
