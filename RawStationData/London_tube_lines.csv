@@ -1,6 +1,7 @@
 Tube Line,From Station,To Station
 Bakerloo,Baker Street,Regents Park
 Bakerloo,Charing Cross,Embankment
+Bakerloo,Waterloo,Charing Cross
 Bakerloo,Edgware Road (Bakerloo),Marylebone
 Bakerloo,Embankment,Waterloo
 Bakerloo,Harlesden,Willesden Junction
@@ -104,14 +105,14 @@ Circle,Blackfriars,Temple
 Circle,Cannon Street,Mansion House
 Circle,Edgware Road,Baker Street
 Circle,Embankment,Westminster
-Circle,Euston Square,Kings Cross St. Pancras
+Circle,Euston Square,Kings Cross St.Pancras
 Circle,Farringdon,Barbican
 Circle,Gloucester Road,High Street Kensington
 Circle,Goldhawk Road,Shepherds Bush Market
 Circle,Great Portland Street,Euston Square
 Circle,Hammersmith (Met.),Goldhawk Road
 Circle,High Street Kensington,Notting Hill Gate
-Circle,Kings Cross St. Pancras,Farringdon
+Circle,Kings Cross St.Pancras,Farringdon
 Circle,Ladbroke Grove,Westbourne Park
 Circle,Latimer Road,Ladbroke Grove
 Circle,Liverpool Street,Aldgate
@@ -124,12 +125,12 @@ Circle,Royal Oak,Paddington
 Circle,Shepherds Bush Market,Wood Lane
 Circle,Sloane Square,South Kensington
 Circle,South Kensington,Gloucester Road
-Circle,St. James's Park,Victoria
+Circle,St.James's Park,Victoria
 Circle,Temple,Embankment
 Circle,Tower Hill,Monument
 Circle,Victoria,Sloane Square
 Circle,Westbourne Park,Royal Oak
-Circle,Westminster,St. James's Park
+Circle,Westminster,St.James's Park
 Circle,Wood Lane,Latimer Road
 District,Acton Town,Ealing Common
 District,Aldgate East,Tower Hill
@@ -172,7 +173,7 @@ District,Ravenscourt Park,Stamford Brook
 District,Sloane Square,South Kensington
 District,South Kensington,Gloucester Road
 District,Southfields,Wimbledon Park
-District,St. James's Park,Victoria
+District,St.James's Park,Victoria
 District,Stamford Brook,Turnham Green
 District,Stepney Green,Whitechapel
 District,Temple,Embankment
@@ -187,7 +188,7 @@ District,Victoria,Sloane Square
 District,West Brompton,Fulham Broadway
 District,West Ham,Bromley-by-Bow
 District,West Kensington,Barons Court
-District,Westminster,St. James's Park
+District,Westminster,St.James's Park
 District,Whitechapel,Aldgate East
 District,Wimbledon Park,Wimbledon
 DLR,Abbey Road,West Ham
@@ -330,34 +331,34 @@ Greater Anglia,Stratford,Lea Bridge
 Greater Anglia,Stratford,Seven Kings
 Greater Anglia,Tottenham Hale,Northumberland Park
 Greater Anglia,Waltham Cross,Cheshunt
-Hammersmith and City,Aldgate East,Whitechapel
+Hammersmith and City,Hammersmith (Met.),Goldhawk Road
+Hammersmith and City,Goldhawk Road,Shepherds Bush Market
+Hammersmith and City,Shepherds Bush Market,Wood Lane
+Hammersmith and City,Wood Lane,Latimer Road
+Hammersmith and City,Latimer Road,Ladbroke Grove
+Hammersmith and City,Ladbroke Grove,Westbourne Park
+Hammersmith and City,Westbourne Park,Royal Oak
+Hammersmith and City,Royal Oak,Paddington
+Hammersmith and City,Paddington,Edgware Road
+Hammersmith and City,Edgware Road,Baker Street
 Hammersmith and City,Baker Street,Great Portland Street
+Hammersmith and City,Great Portland Street,Euston Square
+Hammersmith and City,Euston Square,Kings Cross St.Pancras
+Hammersmith and City,Kings Cross St.Pancras,Farringdon
+Hammersmith and City,Farringdon,Barbican
 Hammersmith and City,Barbican,Moorgate
+Hammersmith and City,Moorgate,Liverpool Street
+Hammersmith and City,Liverpool Street,Aldgate East
+Hammersmith and City,Aldgate East,Whitechapel
+Hammersmith and City,Whitechapel,Stepney Green
+Hammersmith and City,Stepney Green,Mile End
+Hammersmith and City,Mile End,Bow Road
 Hammersmith and City,Bow Road,Bromley-by-Bow
 Hammersmith and City,Bromley-by-Bow,West Ham
-Hammersmith and City,East Ham,Barking
-Hammersmith and City,Edgware Road,Baker Street
-Hammersmith and City,Euston Square,Kings Cross St. Pancras
-Hammersmith and City,Farringdon,Barbican
-Hammersmith and City,Goldhawk Road,Shepherds Bush Market
-Hammersmith and City,Great Portland Street,Euston Square
-Hammersmith and City,Hammersmith (Met.),Goldhawk Road
-Hammersmith and City,Kings Cross St. Pancras,Farringdon
-Hammersmith and City,Ladbroke Grove,Westbourne Park
-Hammersmith and City,Latimer Road,Ladbroke Grove
-Hammersmith and City,Liverpool Street,Aldgate East
-Hammersmith and City,Mile End,Bow Road
-Hammersmith and City,Moorgate,Liverpool Street
-Hammersmith and City,Paddington,Edgware Road
-Hammersmith and City,Plaistow,Upton Park
-Hammersmith and City,Royal Oak,Paddington
-Hammersmith and City,Shepherds Bush Market,Wood Lane
-Hammersmith and City,Stepney Green,Mile End
-Hammersmith and City,Upton Park,East Ham
 Hammersmith and City,West Ham,Plaistow
-Hammersmith and City,Westbourne Park,Royal Oak
-Hammersmith and City,Whitechapel,Stepney Green
-Hammersmith and City,Wood Lane,Latimer Road
+Hammersmith and City,Plaistow,Upton Park
+Hammersmith and City,Upton Park,East Ham
+Hammersmith and City,East Ham,Barking
 Heathrow Connect,Ealing Broadway,West Ealing
 Heathrow Connect,Hanwell,Southall
 Heathrow Connect,Hayes and Harlington,Heathrow Terminals 23
@@ -378,6 +379,7 @@ Jubilee,Canning Town,West Ham
 Jubilee,Canons Park,Queensbury
 Jubilee,Dollis Hill,Willesden Green
 Jubilee,Finchley Road,Swiss Cottage
+Jubilee,Baker Street,Swiss Cottage
 Jubilee,Green Park,Westminster
 Jubilee,Kilburn,West Hampstead
 Jubilee,Kingsbury,Wembley Park
@@ -429,14 +431,14 @@ Metropolitan,Chorleywood,Chalfont and Latimer
 Metropolitan,Croxley,Watford
 Metropolitan,Eastcote,Ruislip Manor
 Metropolitan,Euston Square,Great Portland Street
-Metropolitan,Farringdon,Kings Cross St. Pancras
+Metropolitan,Farringdon,Kings Cross St.Pancras
 Metropolitan,Finchley Road,Wembley Park
 Metropolitan,Great Portland Street,Baker Street
 Metropolitan,Harrow-on-the-Hill,North Harrow
 Metropolitan,Harrow-on-the-Hill,West Harrow
 Metropolitan,Hillingdon,Uxbridge
 Metropolitan,Ickenham,Hillingdon
-Metropolitan,Kings Cross St. Pancras,Euston Square
+Metropolitan,Kings Cross St.Pancras,Euston Square
 Metropolitan,Liverpool Street,Moorgate
 Metropolitan,Moor Park,Croxley
 Metropolitan,Moor Park,Rickmansworth
@@ -479,7 +481,7 @@ Mildmay,West Brompton,Imperial Wharf
 Mildmay,West Hampstead,Finchley Road and Frognal
 Mildmay,Willesden Junction,Kensal Rise
 Mildmay,Willesden Junction,Shepherds Bush
-Northern,Angel,Kings Cross St. Pancras
+Northern,Angel,Kings Cross St.Pancras
 Northern,Archway,Highgate
 Northern,Balham,Clapham South
 Northern,Bank,Moorgate
@@ -512,7 +514,7 @@ Northern,Kennington,Elephant and Castle
 Northern,Kennington,Nine Elms
 Northern,Kennington,Waterloo
 Northern,Kentish Town,Tufnell Park
-Northern,Kings Cross St. Pancras,Euston
+Northern,Kings Cross St.Pancras,Euston
 Northern,Leicester Square,Tottenham Court Road
 Northern,London Bridge,Bank
 Northern,Moorgate,Old Street
@@ -541,7 +543,7 @@ Piccadilly,Arsenal,Holloway Road
 Piccadilly,Barons Court,Hammersmith (District)
 Piccadilly,Boston Manor,Osterley
 Piccadilly,Bounds Green,Wood Green
-Piccadilly,Caledonian Road,Kings Cross St. Pancras
+Piccadilly,Caledonian Road,Kings Cross St.Pancras
 Piccadilly,Cockfosters,Oakwood
 Piccadilly,Covent Garden,Leicester Square
 Piccadilly,Ealing Common,North Ealing
@@ -563,7 +565,7 @@ Piccadilly,Hounslow East,Hounslow Central
 Piccadilly,Hounslow West,Hatton Cross
 Piccadilly,Hyde Park Corner,Knightsbridge
 Piccadilly,Ickenham,Hillingdon
-Piccadilly,Kings Cross St. Pancras,Russell Square
+Piccadilly,Kings Cross St.Pancras,Russell Square
 Piccadilly,Knightsbridge,South Kensington
 Piccadilly,Leicester Square,Piccadilly Circus
 Piccadilly,Manor House,Finsbury Park
@@ -905,9 +907,9 @@ Victoria,Blackhorse Road,Tottenham Hale
 Victoria,Euston,Warren Street
 Victoria,Finsbury Park,Highbury and Islington
 Victoria,Green Park,Victoria
-Victoria,Highbury and Islington,Kings Cross St. Pancras
+Victoria,Highbury and Islington,Kings Cross St.Pancras
 Victoria,Highbury and Islington,Euston
-Victoria,Kings Cross St. Pancras,Euston
+Victoria,Kings Cross St.Pancras,Euston
 Victoria,Oxford Circus,Green Park
 Victoria,Pimlico,Vauxhall
 Victoria,Seven Sisters,Finsbury Park
